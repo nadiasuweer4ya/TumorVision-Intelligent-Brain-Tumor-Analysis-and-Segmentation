@@ -4,7 +4,8 @@
 
 A brain tumor, known as an intracranial tumor, is an abnormal mass of tissue in which cells grow and multiply uncontrollably, seemingly unchecked by the mechanisms that control normal cells.
 
-Show segments of tumor using different effects
+# Show segments of tumor using different effects
+Our project brings tumor analysis to life by displaying tumor segments using a variety of creative visual effects. Witness the boundaries of tumors highlighted in distinct ways, providing medical professionals with a dynamic and insightful perspective for accurate diagnosis.
 ![download (23)](https://github.com/nadiasuweer4ya/TumorVision-Intelligent-Brain-Tumor-Analysis-and-Segmentation/assets/135404371/a3ea75ca-2298-4cd3-8bfa-f8acbce0fca8)
 
 
