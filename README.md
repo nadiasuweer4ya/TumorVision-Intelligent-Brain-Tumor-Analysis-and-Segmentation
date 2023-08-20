@@ -13,11 +13,29 @@ Comprehensive 3D Data Display: To provide a holistic view of our NIfTI brain tum
 
 ![download (15)](https://github.com/nadiasuweer4ya/TumorVision-Intelligent-Brain-Tumor-Analysis-and-Segmentation/assets/135404371/c0ff88a0-3b90-4d87-b7a2-433d100913dc)
 
-
+# All BraTS multimodal scans are available as NIfTI files (.nii.gz) and of 4 modalities as follows:
+T1: T1-weighted, native image, sagittal or axial 2D acquisitions, with 1–6 mm slice
+thickness.
+T1c: T1-weighted, contrast-enhanced (Gadolinium) image, with 3D acquisition and 1
+mm isotropic voxel size for most patients.
+T2: T2-weighted image, axial 2D acquisition, with 2–6 mm slice thickness.
+FLAIR : T2-weighted FLAIR image, axial, coronal, or sagittal 2D acquisitions, 2–6 mm
+slice thickness.
+All images were acquired with different clinical protocols and various scanners from multiple
+(n=19) institutions, mentioned as data contributors here. All the imaging datasets have been
+segmented manually , by one to four raters, following the same annotation protocol, and their
+annotations were approved by experienced neuro-radiologists. Annotations comprise
 
 ![download (16)](https://github.com/nadiasuweer4ya/TumorVision-Intelligent-Brain-Tumor-Analysis-and-Segmentation/assets/135404371/2d1477dc-d9ae-45a5-9703-cf17ee80e7cd)
 
-
+Data Usage Agreement / Citations:
+You are free to use and/or refer to the BraTS datasets in your own research, provided that you always cite the following three manuscripts:
+[1] B. H. Menze, A. Jakab, S. Bauer, J. Kalpathy-Cramer, K. Farahani, J. Kirby, et al. "The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)", IEEE Transactions on Medical Imaging 34(10), 1993-2024 (2015) DOI: 10.1109/TMI.2014.2377694
+[2] S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J.S. Kirby, et al., "Advancing The Cancer Genome Atlas glioma MRI collections with expert segmentation labels and radiomic features", Nature Scientific Data, 4:170117 (2017) DOI: 10.1038/sdata.2017.117
+[3] S. Bakas, M. Reyes, A. Jakab, S. Bauer, M. Rempfler, A. Crimi, et al., "Identifying the Best Machine Learning Algorithms for Brain Tumor Segmentation, Progression Assessment, and Overall Survival Prediction in the BRATS Challenge", arXiv preprint arXiv:1811.02629 (2018)
+In addition, if there are no restrictions imposed from the journal/conference you submit your paper about citing "Data Citations", please be specific and also cite the following:
+[4] S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J. Kirby, et al., "Segmentation Labels and Radiomic Features for the Pre-operative Scans of the TCGA-GBM collection", The Cancer Imaging Archive, 2017. DOI: 10.7937/K9/TCIA.2017.KLXWJJ1Q
+[5] S. Bakas, H. Akbari, A. Sotiras, M. Bilello, M. Rozycki, J. Kirby, et al., "Segmentation Labels and Radiomic Features for the Pre-operative Scans of the TCGA-LGG collection", The Cancer Imaging Archive, 2017. DOI: 10.7937/K9/TCIA.2017.GJQ7R0EF
 
 
 
