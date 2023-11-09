@@ -6,7 +6,8 @@ A brain tumor, known as an intracranial tumor, is an abnormal mass of tissue in 
 
 # Show segments of tumor using different effects
 Our project brings tumor analysis to life by displaying tumor segments using a variety of creative visual effects. Witness the boundaries of tumors highlighted in distinct ways, providing medical professionals with a dynamic and insightful perspective for accurate diagnosis.
-![download (23)](https://github.com/nadiasuweer4ya/TumorVision-Intelligent-Brain-Tumor-Analysis-and-Segmentation/assets/135404371/a3ea75ca-2298-4cd3-8bfa-f8acbce0fca8)
+!![download (6)](https://github.com/nadiasuweer4ya/TumorVision-Intelligent-Brain-Tumor-Analysis-and-Segmentation/assets/135404371/a358aa05-d783-4c98-933b-8267b24d0524)
+![download (7)](https://github.com/nadiasuweer4ya/TumorVision-Intelligent-Brain-Tumor-Analysis-and-Segmentation/assets/135404371/f87126c3-f1d4-417f-b44a-671cbe9580fb)
 
 # Show whole nifti data and print each slice from 3d data
 Comprehensive 3D Data Display: To provide a holistic view of our NIfTI brain tumor data, we've incorporated a feature that displays each slice from the 3D dataset. By iterating through the slices and printing them individually, we enable a comprehensive examination of the entire volume. This approach grants medical practitioners the ability to analyze the tumor's progression through the slices, aiding in accurate diagnosis and treatment planning.
